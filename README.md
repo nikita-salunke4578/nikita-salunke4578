@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi there, I'm Nikita Salunke 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Always+Learning+New+Tech;Focused+on+Growth+%26+Impact&center=true&width=500&height=45">
@@ -7,22 +8,22 @@
   <img src="https://img.shields.io/badge/Tech Student-FCCF00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-009688?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WebDev-orange?style=for-the-badge" />
-  
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikita-salunke4578&label=Profile%20views&color=0e75b6&style=flat" alt="nikita-salunke4578" />
 </p>
+
 ---
 
 ### 👩‍💻 About Me
 - 🎓 Pursuing **Information Technology Engineering** at **Vishwakarma Institute of Information Technology**, Pune  
 - 🌱 Currently learning **DSA**, **MERN Stack**, and diving into **Data Science/ML**
-- 💬 Ask me about: **Java, MERN, AI/ML (beginner), DSA, Web Projects**
+- 💬 Ask me about: **Java, MERN, DSA, Web Projects**
 - 📫 How to reach me: nikitasalunke960@gmail.com
 - 💡 I love building projects that blend creativity and logic!
 - 🌍 I believe in: _"Don’t feel sad or bad, just focus on your life and do your work."_
 - ⚡ **Fun Fact:** *"I’m a peace-loving nature walker who loves turning code into creativity!"*
-
 
 ---
 
@@ -53,8 +54,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikita-salunke4578&theme=tokyonight&hide_border=true" width="500px" />
+  <img src="https://streak-stats.demolab.com?user=nikita-salunke4578&theme=dark&hide_border=false&border_radius=10.5&date_format=M%20Y" width="600px" />
 </p>
+
 ---
 
 ### 📫 Connect with Me:
@@ -75,10 +77,3 @@
 🔗 [My GitHub Repositories](https://github.com/nikita-salunke4578?tab=repositories)
 
 ---
-
-
-
-
-
-
-
