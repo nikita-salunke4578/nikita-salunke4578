@@ -1,10 +1,13 @@
-<h1 align="center">Hi there, I'm Nikita Jadhav 👋</h1>
-<h3 align="center">Aspiring Software Developer | DSA | Web Dev Learner</h3>
+<h1 align="center">Hi there, I'm Nikita Salunke 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Always+Learning+New+Tech;Focused+on+Growth+%26+Impact&center=true&width=500&height=45">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech Student-FCCF00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebDev-Javascript-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Java-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebDev-orange?style=for-the-badge" />
+  
 </p>
 
 ---
@@ -15,37 +18,26 @@
 - 📫 How to reach me: nikitasalunke960@gmail.com
 - 💡 I love building projects that blend creativity and logic!
 - 🌍 I believe in: _"Don’t feel sad or bad, just focus on your life and do your work."_
-- ⚡ Fun fact: 
+- 🌱 Side Interests: Nature walks, spirituality, singing, and solo travel
 
 ---
 
 ### 🚀 Languages & Tools:
-<p>
-  <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=blue" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=blue" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> </p>
 
 ---
 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikitajadhav07&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitajadhav07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikita-salunke4578&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikita-salunke4578&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect with Me:
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/nikita-salunke-63ab11253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/nikitajadhav07"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:nikitasalunke960@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
