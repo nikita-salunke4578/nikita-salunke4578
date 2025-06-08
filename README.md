@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi there, I'm Nikita Salunke 👩‍💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Always+Learning+New+Tech;Focused+on+Growth+%26+Impact&center=true&width=500&height=45">
