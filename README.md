@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi there, I'm Nikita Salunke </h1>
+<h1 align="center">👋 Hi there, I'm Nikita Salunke 👩‍💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Always+Learning+New+Tech;Focused+on+Growth+%26+Impact&center=true&width=500&height=45">
 </p>
@@ -67,9 +67,10 @@
   <a href="https://leetcode.com/yourleetcode" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <a href="mailto:nikitasalunke960@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 ---
