@@ -58,21 +58,19 @@
 </p>
 
 ---
+### 🌐 Connect With Me
 
-### 📫 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikita-salunke-63ab11253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" />
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/nikitajadhav07">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=FFA116" />
+  <a href="https://leetcode.com/yourleetcode" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="mailto:nikitasalunke960@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
+  <a href="https://discordapp.com/users/yourdiscord" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
-
 
 ---
 
