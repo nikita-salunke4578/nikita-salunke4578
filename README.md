@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/nikita-salunke-63ab11253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/yourleetcode" target="_blank">
+  <a href="https://leetcode.com/u/Nikita_Salunke_8600/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="mailto:nikitasalunke960@gmail.com" target="_blank">
