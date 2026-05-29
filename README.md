@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Always+Learning+New+Tech;Focused+on+Growth+%26+Impact&center=true&width=500&height=45">
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Tech Student-FCCF00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-009688?style=for-the-badge" />
