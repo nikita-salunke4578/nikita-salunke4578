@@ -17,12 +17,12 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Pursuing **BTech in Information Technology** at **Vishwakarma Institute of Information Technology**, Pune  
-- 🌱 Currently learning **MERN Stack** and diving into **AI/ML**
-- 💬 Ask me about: **Java, Spring Boot, Docker, Data Structures & Algorithm, MYSQL**
+- 🎓 Pursuing **BTech in Information Technology** at **Vishwakarma Institute of Technology**, Pune  
+- 🌱 Currently learning **AI/ML** 
+- 💬 Ask me about: **Java, Spring Boot, Docker, Microservices, Data Structures & Algorithm, MYSQL**
 - 📫 How to reach me: nikitasalunke960@gmail.com
 - 💡 I love building projects that blend creativity and logic!
-- 🌍 I believe in: _"Don’t feel sad or bad, just focus on your life and do your work."_
+- 🌍 I believe in: _"Don’t feel sad or bad, Be Happy, just focus on your life and do your work."_
 - ⚡ **Fun Fact:** *"I’m a peace-loving nature walker who loves turning code into creativity!"*
 
 ---
